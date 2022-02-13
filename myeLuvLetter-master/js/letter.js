@@ -15,7 +15,7 @@ $("#open").click(function () {
 		new Typed('.letter', {
 			strings: [
 				"^1000亲爱的光光&nbsp;&nbsp;" + content.to,
-				content.recipient + "^200亲爱的臭光光<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200你好哇！距离我们上一次见面已经有24天啦，还有两周我又可以见到你了呢！<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200在一起421天，真的是很长的时间。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200每一次的相见都让我感到欣喜，每一次分离都让我依依不舍。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200上一次在沈阳北站，还有二十几分钟你的高铁就要发车，我握着你的手，似乎，你没有离开我就已经开始想念……<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200嘻嘻，希望我们相聚相爱的时间久一点，再久一点，如果为它加一个期限，我希望是永远。光光宝贝，情人节快乐。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+				content.recipient + "^200亲爱的臭光光;^200你好哇！还有两周我又可以见到你了呢！<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^200每一次的相见都让我感到欣喜，每一次分离都让我依依不舍。;^200上一次在沈阳北站，还有二十几分钟你的高铁就要发车，我握着你的手，似乎，你没有离开我就已经开始想念……;^200嘻嘻，希望我们相聚相爱的时间久一点，再久一点，如果为它加一个期限，我希望是永远。光光宝贝，情人节快乐。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
 				content.text + "<br><br><p style='float:right; display:block; width:" + 
 				content.sign + "px;'>^1000" +
 				content.from + "^200你的鸣鸣</p>"
